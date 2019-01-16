@@ -4,9 +4,6 @@ exports.handler = (event, context, callback) => {
 	*/
 	const isMobileHeader = 'CloudFront-Is-Mobile-Viewer';
 
-	console.log(request);
-	console.log(context);
-
 	const request = event.Records[0].cf.request;
 	const headers = request.headers;
 
