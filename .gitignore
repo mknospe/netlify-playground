@@ -1,7 +1,8 @@
 node_modules
 .DS_Store
-/.idea/
+/.idea
 /dist/
 /npm-debug.log.*
 /.project
 /.rpt2_cache
+/lambda
