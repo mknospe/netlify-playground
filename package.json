@@ -1,0 +1,25 @@
+{
+  "name": "netlify-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "netlify-lambda": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:lambda": "netlify-lambda serve src/lambda",
+    "build:lambda": "netlify-lambda build src/lambda"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mknospe@github.com/mknospe/netlify-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mknospe/netlify-playground/issues"
+  },
+  "homepage": "https://github.com/mknospe/netlify-playground#readme"
+}
