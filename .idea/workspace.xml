@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1c5aa7b-7302-46b4-950b-f699221f7861" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lambda/hub.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/signia.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/mobile/signia.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/signia_bt.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/desktop/desktop_signia.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/signia_mpp123.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambda/device-split.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambda/test.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/tablet/signia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/desktop/desktop_signia.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/desktop/signia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mobile/signia.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/mobile/signia.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,7 +27,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="4" />
+          <entry key="HTML" value="6" />
           <entry key="Image" value="2" />
           <entry key="JSON" value="4" />
           <entry key="JavaScript" value="7" />
@@ -41,7 +37,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="139" />
+          <entry key="HTML" value="182" />
           <entry key="JSON" value="38" />
           <entry key="JavaScript" value="562" />
           <entry key="PLAIN_TEXT" value="51" />
@@ -53,10 +49,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/desktop/desktop_signia.html">
+        <entry file="file://$PROJECT_DIR$/pages/desktop/signia.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-end-line="11" />
+            <state relative-caret-position="119">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/mobile/signia.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/tablet/signia.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -75,11 +89,11 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lambda/hub.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="452">
-              <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+              <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -129,6 +143,9 @@
         <option value="$PROJECT_DIR$/src/lambda/test.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/lambda/hub.js" />
+        <option value="$PROJECT_DIR$/pages/desktop/signia.html" />
+        <option value="$PROJECT_DIR$/pages/mobile/signia.html" />
+        <option value="$PROJECT_DIR$/pages/tablet/signia.html" />
       </list>
     </option>
   </component>
@@ -196,6 +213,24 @@
             <path>
               <item name="netlify-playground" type="b2602c69:ProjectViewProjectNode" />
               <item name="netlify-playground" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="desktop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netlify-playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netlify-playground" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netlify-playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netlify-playground" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="tablet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netlify-playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netlify-playground" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -221,6 +256,9 @@
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages/tablet" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/pages/desktop" />
       <recent name="$PROJECT_DIR$/pages/m" />
@@ -251,18 +289,18 @@
       <option name="presentableId" value="Default" />
       <updated>1547636809999</updated>
       <workItem from="1547636811220" duration="1908000" />
-      <workItem from="1547646228060" duration="7535000" />
+      <workItem from="1547646228060" duration="7810000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9443000" />
+    <option name="totallyTimeSpent" value="9718000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-568" y="-1418" width="2560" height="1418" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24970461" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24970461" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -274,7 +312,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.47707847" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.47707847" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -292,20 +330,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/mobile/signia.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/desktop/desktop_signia.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -368,7 +392,28 @@
     <entry file="file://$PROJECT_DIR$/src/lambda/hub.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="452">
-          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+          <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/desktop/signia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/mobile/signia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/tablet/signia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
         </state>
       </provider>
     </entry>
